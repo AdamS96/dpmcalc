@@ -4,7 +4,7 @@ import './Create.css';
 
 const Create = () => (
   <div className="Create">
-    Create Component
+    Create Component - Test
   </div>
 );
 
